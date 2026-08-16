@@ -19,3 +19,9 @@ user = input("ENTER YOUR NAME:")
 print("Hello, " +user) #concatenation of string
 
 #exercise : Take name, age and height as input and display a paragraph using input values
+
+naam = input("Enter name:")
+your_age = input("Enter your age:")
+height = input("Enter height in meters:")
+
+print("Hello, my name is " + naam + ". aI am " + your_age + " years old. My height is " + height + " m.")
